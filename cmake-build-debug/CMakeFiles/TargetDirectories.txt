@@ -1,0 +1,3 @@
+/Users/archilodishelidze/CLionProjects/mt103/cmake-build-debug/CMakeFiles/mt103.dir
+/Users/archilodishelidze/CLionProjects/mt103/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/archilodishelidze/CLionProjects/mt103/cmake-build-debug/CMakeFiles/rebuild_cache.dir
